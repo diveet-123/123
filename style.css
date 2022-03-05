@@ -1,0 +1,28 @@
+body
+{
+    background-color: #CCD1E4;
+}
+
+p
+{
+    color: red;
+    font-size: 15;
+}
+
+.all
+{
+    width: 250px;
+    height: 250px;
+    margin: 40px;
+}
+
+h4
+{
+    display: inline;
+}
+
+#gl
+{
+    width: 100px;
+    height: 100px;
+}
